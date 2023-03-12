@@ -1,2 +1,2 @@
 # Duplicate-Cleanup
-Delete Duplicates and remove certain items per titles
+Cleaning up a folder containing files with duplicate names or unwanted characters in their names
