@@ -1,5 +1,5 @@
 ﻿# Set the path to the folder containing the files you want to rename
-$folderPath = "C:\Users\User\Desktop\test"
+$folderPath = "C:\path\to\file"
 
 # Get all the files in the folder
 $files = Get-ChildItem $folderPath
